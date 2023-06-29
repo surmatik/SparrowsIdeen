@@ -15,7 +15,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Spiel Ideen', link: '/spiel-ideen/Allgemein' },
+      { text: 'Spiel Ideen', link: '/Spiel-Ideen/Allgemein' },
       { text: 'Programm Ideen', link: '/Programm-Ideen/Allgemein' },
       { text: 'Theorie', link: '/Theorie' }
     ],
