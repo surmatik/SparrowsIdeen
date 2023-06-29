@@ -56,7 +56,7 @@ export default defineConfig({
     },
 
     footer: {
-      copyright: 'Copyright © 2023 Tweet & Shark'
+      copyright: 'Copyright © 2023 Cevi Wetzikon Tweet & Shark'
     },
 
     socialLinks: [
