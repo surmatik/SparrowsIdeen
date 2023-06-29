@@ -16,7 +16,8 @@
 - Turm bauen (mit bestimmten Gegenständen die man gerade zur Verfügung hat, soll man einen möglichst grossen Turm bauen)
 - Wer hat Angst vom schwarzen Mann?🏃🏿‍♂️
 - Ziitig lese STOP
-- Plank Challenge in der Gruppe [Video](https://www.instagram.com/reel/Cn88uGGge-Y/?igshid=MDJmNzVkMjY=)
+- Plank Challenge in der Gruppe <br>
+  Video: [instagram.com](https://www.instagram.com/reel/Cn88uGGge-Y/?igshid=MDJmNzVkMjY=)
 - 15, 14,…
 - Fangis zu zweit in eine Richtung (entweder müssen die links den anderen Fangen oder umgekehrt)
 - Saubologen

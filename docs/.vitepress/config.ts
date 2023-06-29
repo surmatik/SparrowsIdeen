@@ -51,7 +51,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/surmatik/SparrowsIdeen/docs/:path',
+      pattern: 'https://github.com/surmatik/SparrowsIdeen/tree/main/docs/:path',
       text: 'bearbeiten'
     },
 
@@ -60,7 +60,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'instagram', link: 'https://www.instagram.com/cevi.wetzikon/' }
+      { icon: 'instagram', link: 'https://www.instagram.com/cevi.wetzikon/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/ceviwetzikon' }
     ]
   }
 })

@@ -10,9 +10,9 @@
 - Red Rover Fussball (3 gegen 3 und der Gewinner kann ein Gegenspieler klauen)
 
 ## Töggelikasten in Reallife
-<img src="../../assets/Toegelikasten-RealLive.jpg" width="400px"> <br>
+<img src="../assets/Toegelikasten-RealLive.jpg" width="400px"> <br>
 Der Töggelikasten in Reallife ist ein Fussball, indem man wie beim Töggelen sich nur auf seiner Linie bewegt.
 
-Anleitung & Material für den Aufbau: [Toegelikasten-RealLive.pdf](../../assets/Toegelikasten-RealLive.pdf) <br>
-Bei Fragem: [Pixel](https://db.cevi.ch/groups/1196/people/12853)
+Anleitung & Material für den Aufbau: [Toegelikasten-RealLive.pdf](../assets/Toegelikasten-RealLive.pdf) <br>
+Bei Fragen: [Pixel](https://db.cevi.ch/groups/1196/people/12853)
 

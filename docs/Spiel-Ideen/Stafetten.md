@@ -13,5 +13,8 @@
 - Staffette mit Augenbinde (Zwei Personen machen den Parcour zusammen. Der eine ist “blind” die andere Person führt ihn durch Anweisungen)
 - Schere-Stein-Papier-Staffette
 - Ball mit Röhren immer weiter nach vorne bringen
-- Büchsen laufen: [](https://www.pinterest.ch/pin/713398397213938245/)([Referenz-Artikel](https://www.pinterest.ch/pin/713398397213938245/))
-- Hände / Füsse Parcour (Bilder auf den Boden, die man nur damit berühren darf / [Pinterest Post](https://www.pinterest.de/pin/425942077270154084/))
+- Büchsen laufen <br>
+  Pinterest Bild: [pinterest.ch](https://www.pinterest.ch/pin/713398397213938245/) <br>
+  Referenz-Artikel: [pinterest.ch](https://www.pinterest.ch/pin/713398397213938245/)
+- Hände / Füsse Parcour (Bilder auf den Boden, die man nur damit berühren darf) <br>
+  Pinterest Post: [pinterest.de](https://www.pinterest.de/pin/425942077270154084/)
