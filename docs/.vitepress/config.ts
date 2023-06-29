@@ -2,14 +2,22 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Sparrows Ideen",
+  title: "Sparrows",
   description: "Tweet & Shark",
+  head: [
+    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/assets/sparrows.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/sparrows.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/sparrows.png"}],
+  ],
   themeConfig: {
+    logo: '/assets/cevi.png',
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Spiel Ideen', link: '/spiel-ideen/Allgemein' },
-      { text: 'Programm Ideen', link: '/Programm-Ideen/Allgemein' }
+      { text: 'Programm Ideen', link: '/Programm-Ideen/Allgemein' },
+      { text: 'Theorie', link: '/Theorie' }
     ],
 
     sidebar: [

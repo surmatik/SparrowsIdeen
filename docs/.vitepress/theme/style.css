@@ -41,7 +41,7 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #bd34fe 30%,
+    #00b37d 30%,
     #41d1ff
   );
 
@@ -87,33 +87,4 @@
 
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand) !important;
-}
-
-.is-home {
-  background-image: url(/assets/titelbild.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: bottom;
-}
-
-
-header {
-  background-color: #f6f6f7;
-  color: #1e1e20;
-}
-
-.dark header {
-  background-color: #1e1e20;
-  color: white;
-}
-
-p.tagline {
-  color: #fff;
-}
-
-div#VPContent {
-  background-color: #f6f6f7;
-}
-.dark div#VPContent {
-  background-color: #161618;
 }
