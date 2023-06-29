@@ -15,8 +15,12 @@ hero:
 
 features:
   - title: Spiel Ideen
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Allgemein <br> Fangis <br> Fussball <br> Games-IRL <br> Hosensackspiele <br> Rätsel <br> Stafetten <br> Völks
+    link: Spiel-Ideen/Allgemein
   - title: Programm Ideen
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Allgemein <br> Basteln <br> Bauen <br> Kochen und Backen <br> Lernen
+    link: Programm-Ideen/Allgemein
+  - title: Theorie
+    link: Theorie
 ---
 
